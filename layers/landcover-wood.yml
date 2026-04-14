@@ -7,4 +7,5 @@ filter:
   - class
   - wood
 paint:
-  fill-pattern: pattern-forest
+  fill-color: '#2d7a2d'
+  fill-opacity: 0.85

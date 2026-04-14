@@ -3,4 +3,4 @@ type: fill
 source: geolonia
 source-layer: oc-water
 paint:
-  fill-pattern: pattern-water
+  fill-color: '#2868a8'

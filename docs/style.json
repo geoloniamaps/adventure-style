@@ -28,7 +28,8 @@
         "grass"
       ],
       "paint": {
-        "fill-pattern": "pattern-grass"
+        "fill-color": "#5cad3e",
+        "fill-opacity": 0.8
       }
     },
     {
@@ -42,7 +43,8 @@
         "wood"
       ],
       "paint": {
-        "fill-pattern": "pattern-forest"
+        "fill-color": "#2d7a2d",
+        "fill-opacity": 0.85
       }
     },
     {
@@ -51,7 +53,7 @@
       "source": "geolonia",
       "source-layer": "water",
       "paint": {
-        "fill-pattern": "pattern-water"
+        "fill-color": "#2868a8"
       }
     },
     {
@@ -60,7 +62,7 @@
       "source": "geolonia",
       "source-layer": "oc-water",
       "paint": {
-        "fill-pattern": "pattern-water"
+        "fill-color": "#2868a8"
       }
     },
     {
