@@ -15,7 +15,7 @@ filter:
     - false
 layout:
   line-cap: butt
-  line-join: miter
+  line-join: bevel
 paint:
   line-color: '#c03030'
   line-width:

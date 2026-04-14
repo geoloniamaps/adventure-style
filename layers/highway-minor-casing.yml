@@ -18,7 +18,7 @@ filter:
     - track
 layout:
   line-cap: butt
-  line-join: miter
+  line-join: bevel
 paint:
   line-color: '#8a7840'
   line-width:

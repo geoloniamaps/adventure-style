@@ -17,7 +17,7 @@ filter:
     - trunk
 layout:
   line-cap: butt
-  line-join: miter
+  line-join: bevel
 paint:
   line-color: '#6b5a38'
   line-width:

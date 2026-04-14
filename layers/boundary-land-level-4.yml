@@ -14,7 +14,7 @@ filter:
     - 1
 layout:
   line-cap: butt
-  line-join: miter
+  line-join: bevel
 paint:
   line-color: '#c05050'
   line-dasharray:

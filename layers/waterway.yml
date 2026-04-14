@@ -10,7 +10,7 @@ filter:
     - LineString
 layout:
   line-cap: butt
-  line-join: miter
+  line-join: bevel
 paint:
   line-color: '#2868a8'
   line-width:

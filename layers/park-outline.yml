@@ -5,7 +5,7 @@ source-layer: park
 minzoom: 13
 layout:
   line-cap: butt
-  line-join: miter
+  line-join: bevel
 paint:
   line-color: '#2d7a2d'
   line-width:

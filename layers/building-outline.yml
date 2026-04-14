@@ -5,7 +5,7 @@ source-layer: building
 minzoom: 15
 layout:
   line-cap: butt
-  line-join: miter
+  line-join: bevel
 paint:
   line-color: '#5a3820'
   line-width:
